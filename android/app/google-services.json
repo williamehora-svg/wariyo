@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324917769851",
+    "project_id": "wariyo-billops-b5e13",
+    "storage_bucket": "wariyo-billops-b5e13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324917769851:android:248fd0d7956417fdcdd4de",
+        "android_info": {
+          "package_name": "com.wariyo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXssDsreJfbW8xJ7hN1uxlcPGRWkKG_LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
